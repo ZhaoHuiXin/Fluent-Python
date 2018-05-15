@@ -65,3 +65,4 @@ if __name__ == '__main__':
     print("对纸牌排序：")
     for card in sorted(deck, key=spades_high):
         print(card)
+        
