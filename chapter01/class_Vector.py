@@ -21,11 +21,11 @@ class Vector:
         self.x = x
         self.y = y
 
-    # __repr__会响应控制台
+    '''__repr__会响应控制台'''
     def __repr__(self):
         return 'Vector(%r, %r)' % (self.x, self.y)
 
-    # __str__只会响应print和str(),如果没有__str__则找__repr__实现print和str()
+    '''__str__只会响应print和str(),如果没有__str__则找__repr__实现print和str()'''
     # def __str__(self):
     #     return 'Vector(%r, %r)' % (self.x, self.y)
 
@@ -34,7 +34,7 @@ class Vector:
 
     # def __bool__(self):
     #     return bool(abs(self))
-    # Improve:
+    '''Improve:'''
     def __bool__(self):
         return bool(self.x or self.y)
 
@@ -46,7 +46,7 @@ class Vector:
     def __mul__(self, scalar):
         return Vector(self.x * scalar, self.y * scalar)
 
-    # 使得 n*Vector(x, y)可用，即可以使用乘法交换律
+    '''使得 n * Vector(x, y)可用，即可以使用乘法交换律'''
     def __rmul__(self, scalar):
         return self * scalar
 
