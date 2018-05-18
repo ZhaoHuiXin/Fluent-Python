@@ -1,3 +1,6 @@
+# -*- coding=utf-8 -*-
+#
+# Copyright @ 2018 HuiXin Zhao
 from array import array
 from random import random
 
@@ -24,4 +27,41 @@ print(floats2 == floats)
     从 Python 3.4 开始,数组类型不再支持诸如 list.sort() 这种就地排序方法。要给数组排序
 的话,得用 sorted 函数新建一个数组:
     a = array.array(a.typecode, sorted(a))
+    
+    ==============转 Python之数组(array)使用方法总结==============
+    array使用方法：
+        Type code   C Type             Minimum size in bytes
+        'c'         character         　　　 　　　　 1
+        'b'         signed integer     　　　　　    1
+        'B'         unsigned integer   　　　　　    1
+        'u'         Unicode character  　　　　　    2
+        'h'         signed integer     　　　　　　　2
+        'H'         unsigned integer   　　　　　　  2
+        'i'         signed integer     　　　　　　　2
+        'I'         unsigned integer  　　　　　　   2
+        'l'         signed integer     　　　　　　　4
+        'L'         unsigned integer 　　　　　　    4
+        'f'         floating point    　　　　　　　　4
+        'd'         floating point    　　　　　　　　8
+        
+        from array import *
+        创建一个interger类型的数组
+        myarr = array("l")  <--------创建数组
+        myarr.append(3)  <----------------追加元素
+        myarr.append(1)
+        myarr.append(8)
+        
+        删除最后一个
+        myarr.pop()
+        删除第一个指定的X
+        myarr.remove(x)
+        
+        取数组的值。。。。。通过下标
+        num1 = myarr[0]   <-----------第一个值
+        
+        指定位置，。。。。插入值　　　
+        myarr.insert(6,10)　　6表示下标。。。。10表示要插入的值
+        
+        数组反序。。。。。
+        myarr.reverse()
 """

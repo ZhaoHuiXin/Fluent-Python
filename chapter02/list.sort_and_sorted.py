@@ -26,6 +26,7 @@ print(res)
 print(fruits)
 fruits.sort()
 print(fruits)
+print("-"*20)
 
 reverse_fruits = sorted(fruits, reverse=True)
 print(reverse_fruits)
@@ -33,10 +34,14 @@ print(fruits)
 fruits.sort(reverse=True)
 print(fruits)
 
+
+print("-"*20)
 # use lambda
-sort_by_lambda = sorted(fruits, key=lambda x: len(x)
-                        if x.startswith("a") else 0)
+sort_by_lambda = sorted(fruits, key=lambda x: len(x))
 print(sort_by_lambda)
+sort_by_lambda_sa = sorted(fruits, key=lambda x: len(x)
+                           if x.startswith("a") else 0)
+print(sort_by_lambda_sa)
 
 sort_by_len = sorted(fruits, key=len)
 print(sort_by_len)

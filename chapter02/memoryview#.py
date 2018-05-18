@@ -16,7 +16,7 @@ for i in memv:
     print(i)
 print(memv[0])
 memv_oct = memv.cast('B')
-"""这里备注下：2字节有符号intger'h'转1字节无符号'B'，0代表+，255代表-，值为255+1-x"""
+"""这里备注下：2字节有符号intger 'h'转1字节无符号'B'，0代表+，255代表-，值为255+1-x"""
 print(memv_oct.tolist())
 memv_oct[5] = 4
 print(numbers)

@@ -1,4 +1,6 @@
-
+# -*- coding=utf-8 -*-
+#
+# Copyright @ 2018 HuiXin Zhao
 """导入精度和性能都比较高的计时器(Python 3.3 及更新的版本中都有这个库)"""
 from time import perf_counter as pc
 import numpy

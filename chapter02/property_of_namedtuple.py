@@ -11,4 +11,8 @@ tokyo_info = ('Tokyo', 'JP', 36.933, (35.689722, 139.691667))
 
 columns = City._fields
 tokyo = City._make(tokyo_info)
-tokyo._asdict()
+t_dict = tokyo._asdict()
+print(columns)
+print(tokyo)
+print(t_dict)
+print(t_dict.get("coordinates"))
