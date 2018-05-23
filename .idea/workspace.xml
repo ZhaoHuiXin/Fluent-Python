@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2f7b7b3b-6f40-4c73-bf46-97a7f89cb851" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/property_of_namedtuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/property_of_namedtuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/slice.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/slice.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +12,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Fluent_Python$01.coverage" NAME="01 Coverage Results" MODIFIED="1527033461288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow" />
     <SUITE FILE_PATH="coverage/Fluent_Python$array_instead_list.coverage" NAME="array_instead_list Coverage Results" MODIFIED="1526516689858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
     <SUITE FILE_PATH="coverage/Fluent_Python$bisect_examples.coverage" NAME="bisect_examples Coverage Results" MODIFIED="1526947186448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
     <SUITE FILE_PATH="coverage/Fluent_Python$create_dict_different_method.coverage" NAME="create_dict_different_method Coverage Results" MODIFIED="1526951793382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter03" />
     <SUITE FILE_PATH="coverage/Fluent_Python$list_sort_and_sorted.coverage" NAME="list.sort_and_sorted Coverage Results" MODIFIED="1526606356345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
     <SUITE FILE_PATH="coverage/Fluent_Python$dict_comprehension.coverage" NAME="dict_comprehension Coverage Results" MODIFIED="1526952282741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter03" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$unuse_setdefault.coverage" NAME="unuse_setdefault Coverage Results" MODIFIED="1527034773910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter03" />
     <SUITE FILE_PATH="coverage/Fluent_Python$memoryview_.coverage" NAME="memoryview# Coverage Results" MODIFIED="1526948106521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
     <SUITE FILE_PATH="coverage/Fluent_Python$a_pile_of_ordered_cards.coverage" NAME="a_pile_of_ordered_cards Coverage Results" MODIFIED="1526946695374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter01" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sequence_incremental_assignment.coverage" NAME="sequence_incremental_assignment Coverage Results" MODIFIED="1526602609049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
@@ -27,7 +27,9 @@
     <SUITE FILE_PATH="coverage/Fluent_Python$bisect_insort.coverage" NAME="bisect_insort Coverage Results" MODIFIED="1526515144223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
     <SUITE FILE_PATH="coverage/Fluent_Python$list____.coverage" NAME="list_*_+ Coverage Results" MODIFIED="1526438018224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
     <SUITE FILE_PATH="coverage/Fluent_Python$introduction_tuple.coverage" NAME="introduction_tuple Coverage Results" MODIFIED="1526606410074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$update_dict.coverage" NAME="update_dict Coverage Results" MODIFIED="1527034090989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter03" />
     <SUITE FILE_PATH="coverage/Fluent_Python$slice.coverage" NAME="slice Coverage Results" MODIFIED="1526949501043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$duck_typing.coverage" NAME="duck_typing Coverage Results" MODIFIED="1527034259981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter03" />
     <SUITE FILE_PATH="coverage/Fluent_Python$function_iter.coverage" NAME="function_iter Coverage Results" MODIFIED="1526602149626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter01" />
     <SUITE FILE_PATH="coverage/Fluent_Python$property_of_namedtuple.coverage" NAME="property_of_namedtuple Coverage Results" MODIFIED="1526948152119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
     <SUITE FILE_PATH="coverage/Fluent_Python$bisect_package.coverage" NAME="bisect_package Coverage Results" MODIFIED="1526606751646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
@@ -48,88 +50,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="list_*_+.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/list_*_+.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-144">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list_comprehension.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/list_comprehension.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="listcomp_speed.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/listcomp_speed.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="memoryview#.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/memoryview#.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumPy_and_SciPy.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/NumPy_and_SciPy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="property_of_namedtuple.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/property_of_namedtuple.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sequence_incremental_assignment.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/sequence_incremental_assignment.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="slice.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/slice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="create_dict_different_method.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="create_dict_different_method.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter03/create_dict_different_method.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dict_comprehension.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter03/dict_comprehension.py">
+      <file leaf-file-name="update_dict.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter03/update_dict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="24" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="168">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="duck_typing.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter03/duck_typing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="unuse_setdefault.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter03/unuse_setdefault.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="use_defaultdict.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter03/use_defaultdict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+              <folding>
+                <element signature="e#23#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="use__missing__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter03/use__missing__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="72" column="19" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Variation_of_dict.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter03/Variation_of_dict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="use_setdefault.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter03/use_setdefault.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="696">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-239605721/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2206">
+              <caret line="4610" column="6" selection-start-line="4610" selection-start-column="6" selection-end-line="4610" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter03/test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -181,6 +196,18 @@
         <option value="$PROJECT_DIR$/chapter02/slice.py" />
         <option value="$PROJECT_DIR$/chapter03/create_dict_different_method.py" />
         <option value="$PROJECT_DIR$/chapter03/dict_comprehension.py" />
+        <option value="$PROJECT_DIR$/tensorflow/01.py" />
+        <option value="$PROJECT_DIR$/chapter03/update_dict.py" />
+        <option value="$PROJECT_DIR$/chapter03/duck_typing.py" />
+        <option value="$PROJECT_DIR$/chapter03/setdefault.py" />
+        <option value="$PROJECT_DIR$/chapter03/test.txt" />
+        <option value="$PROJECT_DIR$/chapter03/unuse_setdefault.py" />
+        <option value="$PROJECT_DIR$/chapter03/use_setdefault.py" />
+        <option value="$PROJECT_DIR$/chapter03/defaultdict_missing_1.py" />
+        <option value="$PROJECT_DIR$/chapter03/index_default.py" />
+        <option value="$PROJECT_DIR$/chapter03/use__missing__.py" />
+        <option value="$PROJECT_DIR$/chapter03/use_defaultdict.py" />
+        <option value="$PROJECT_DIR$/chapter03/Variation_of_dict.py" />
       </list>
     </option>
   </component>
@@ -193,10 +220,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="945" />
-    <option name="y" value="8" />
-    <option name="width" value="1268" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="672" />
+    <option name="y" value="42" />
+    <option name="width" value="1190" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -220,6 +247,11 @@
               <item name="Fluent-Python" type="462c0819:PsiDirectoryNode" />
               <item name="chapter03" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Fluent-Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fluent-Python" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -229,7 +261,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../work/auto_json" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -251,8 +283,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dict_comprehension">
-    <configuration name="NumPy_and_SciPy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.unuse_setdefault">
+    <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fluent-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,31 +292,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter02/NumPy_and_SciPy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="create_dict_different_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Fluent-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter03/create_dict_different_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow/01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,7 +322,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="property_of_namedtuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="duck_typing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fluent-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,18 +330,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter02/property_of_namedtuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter03/duck_typing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="slice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="unuse_setdefault" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fluent-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -336,31 +349,50 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter02/slice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter03/unuse_setdefault.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="update_dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Fluent-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter03/update_dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.NumPy_and_SciPy" />
-      <item itemvalue="Python.property_of_namedtuple" />
-      <item itemvalue="Python.slice" />
-      <item itemvalue="Python.create_dict_different_method" />
       <item itemvalue="Python.dict_comprehension" />
+      <item itemvalue="Python.01" />
+      <item itemvalue="Python.update_dict" />
+      <item itemvalue="Python.duck_typing" />
+      <item itemvalue="Python.unuse_setdefault" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.unuse_setdefault" />
+        <item itemvalue="Python.duck_typing" />
+        <item itemvalue="Python.update_dict" />
+        <item itemvalue="Python.01" />
         <item itemvalue="Python.dict_comprehension" />
-        <item itemvalue="Python.create_dict_different_method" />
-        <item itemvalue="Python.slice" />
-        <item itemvalue="Python.property_of_namedtuple" />
-        <item itemvalue="Python.NumPy_and_SciPy" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +410,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="945" y="8" width="1268" height="1040" extended-state="0" />
+    <frame x="672" y="42" width="1190" height="1040" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -386,8 +418,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3298969" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.26651737" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28667414" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18234323" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.16797313" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19488536" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.12541528" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32956383" />
@@ -637,21 +669,107 @@
     <entry file="file://$PROJECT_DIR$/chapter02/slice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../env_fp/lib/python3.5/site-packages/tensorflow/python/ops/array_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="1778" column="21" selection-start-line="1778" selection-start-column="21" selection-end-line="1778" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter03/dict_comprehension.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="456">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter03/create_dict_different_method.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-239605721/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2206">
+          <caret line="4610" column="6" selection-start-line="4610" selection-start-column="6" selection-end-line="4610" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/update_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/use_defaultdict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+          <folding>
+            <element signature="e#23#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/use__missing__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="72" column="19" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/use_setdefault.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/duck_typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/unuse_setdefault.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/Variation_of_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
         </state>
       </provider>
     </entry>
