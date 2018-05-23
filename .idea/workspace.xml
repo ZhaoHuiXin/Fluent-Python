@@ -113,7 +113,7 @@
       <file leaf-file-name="Variation_of_dict.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter03/Variation_of_dict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
+            <state relative-caret-position="159">
               <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
             </state>
           </provider>
@@ -221,8 +221,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="672" />
-    <option name="y" value="42" />
+    <option name="x" value="730" />
+    <option name="y" value="14" />
     <option name="width" value="1190" />
     <option name="height" value="1040" />
   </component>
@@ -410,7 +410,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="672" y="42" width="1190" height="1040" extended-state="0" />
+    <frame x="730" y="14" width="1190" height="1040" extended-state="1" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -418,7 +418,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3298969" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.26651737" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.16797313" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5397536" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19488536" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.12541528" />
@@ -768,7 +768,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter03/Variation_of_dict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
+        <state relative-caret-position="159">
           <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
         </state>
       </provider>
