@@ -13,6 +13,7 @@ with open(sys.argv[1], encoding='utf-8') as fp:
             print("match.group():", word)
             print("match.start():", match.start())
             column_no = match.start()+1
+
             location = (line_no, column_no)  # 每行开始首字母的坐标
             # 以word为键，得不到就返回一个空列表,得到了还是一个有单词坐标的列表
             occurrences = index.get(word, [])

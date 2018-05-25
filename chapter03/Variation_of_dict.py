@@ -9,7 +9,8 @@
 对象来代表一个作用域的上下文。在 collections 文档介绍 ChainMap 对象的那一部分。例：
         import builtins
         pylookup = ChainMap(locals(), globals(), vars(builtins))
-    collections.Counter:
+    （个人测试：当对ChainMap进行update操作的时候，会作用到ChainMap中的第一个字典）
+    collections.Counter:（可以对ChainMap进行操作）
     这个映射类型会给键准备一个整数计数器。每次更新一个键的时候都会增加这个计数器。所以这个类
 型可以用来给可散列表对象计数,或者是当成多重集来用——多重集合就是集合里的元素可以出现不止一次。
 Counter 实现了 + 和 - 运算符用来合并记录,还有像most_common([n]) 这类很有用的方法。
