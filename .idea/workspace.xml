@@ -19,13 +19,13 @@
     <SUITE FILE_PATH="coverage/Fluent_Python$Doctests_in_subclassing_UserDict__1_.coverage" NAME="Doctests in subclassing_UserDict (1) Coverage Results" MODIFIED="1527209781739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter03" />
     <SUITE FILE_PATH="coverage/Fluent_Python$NumPy_and_SciPy.coverage" NAME="NumPy_and_SciPy Coverage Results" MODIFIED="1526948135534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
     <SUITE FILE_PATH="coverage/Fluent_Python$collections_deque.coverage" NAME="collections_deque Coverage Results" MODIFIED="1526947220515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
-    <SUITE FILE_PATH="coverage/Fluent_Python$bisect_insort.coverage" NAME="bisect_insort Coverage Results" MODIFIED="1526515144223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$bisect_insort.coverage" NAME="bisect_insort Coverage Results" MODIFIED="1528074716370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
     <SUITE FILE_PATH="coverage/Fluent_Python$Doctests_in_subclassing_UserDict.coverage" NAME="Doctests in subclassing_UserDict Coverage Results" MODIFIED="1527210088643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter03" />
     <SUITE FILE_PATH="coverage/Fluent_Python$slice.coverage" NAME="slice Coverage Results" MODIFIED="1526949501043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
     <SUITE FILE_PATH="coverage/Fluent_Python$duck_typing.coverage" NAME="duck_typing Coverage Results" MODIFIED="1527034259981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter03" />
     <SUITE FILE_PATH="coverage/Fluent_Python$01.coverage" NAME="01 Coverage Results" MODIFIED="1527033461288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow" />
     <SUITE FILE_PATH="coverage/Fluent_Python$array_instead_list.coverage" NAME="array_instead_list Coverage Results" MODIFIED="1526516689858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
-    <SUITE FILE_PATH="coverage/Fluent_Python$bisect_examples.coverage" NAME="bisect_examples Coverage Results" MODIFIED="1526947186448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$bisect_examples.coverage" NAME="bisect_examples Coverage Results" MODIFIED="1528075095233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
     <SUITE FILE_PATH="coverage/Fluent_Python$create_dict_different_method.coverage" NAME="create_dict_different_method Coverage Results" MODIFIED="1527206237851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter03" />
     <SUITE FILE_PATH="coverage/Fluent_Python$Doctests_in_use__missing____3_.coverage" NAME="Doctests in use__missing__ (3) Coverage Results" MODIFIED="1527210300157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter03" />
     <SUITE FILE_PATH="coverage/Fluent_Python$list_sort_and_sorted.coverage" NAME="list.sort_and_sorted Coverage Results" MODIFIED="1526606356345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
@@ -41,7 +41,7 @@
     <SUITE FILE_PATH="coverage/Fluent_Python$set_.coverage" NAME="set# Coverage Results" MODIFIED="1527556382794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter03" />
     <SUITE FILE_PATH="coverage/Fluent_Python$function_iter.coverage" NAME="function_iter Coverage Results" MODIFIED="1528070760544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter01" />
     <SUITE FILE_PATH="coverage/Fluent_Python$property_of_namedtuple.coverage" NAME="property_of_namedtuple Coverage Results" MODIFIED="1528071790278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
-    <SUITE FILE_PATH="coverage/Fluent_Python$bisect_package.coverage" NAME="bisect_package Coverage Results" MODIFIED="1526606751646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$bisect_package.coverage" NAME="bisect_package Coverage Results" MODIFIED="1528074437101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -59,56 +59,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HashTable#.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter03/HashTable#.py">
+      <file leaf-file-name="Character.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter04/Character.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a_pile_of_ordered_cards.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter01/a_pile_of_ordered_cards.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="899">
-              <caret line="49" column="33" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="introduction_tuple.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/introduction_tuple.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="property_of_namedtuple.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/property_of_namedtuple.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="class_Vector.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter01/class_Vector.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="48" column="42" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="function_iter.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter01/function_iter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="265">
+              <caret line="44" column="3" lean-forward="true" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -153,8 +108,6 @@
         <option value="$PROJECT_DIR$/chapter02/memoryview#.py" />
         <option value="$PROJECT_DIR$/chapter02/list.sort_and_sorted.py" />
         <option value="$PROJECT_DIR$/chapter02/array_instead_list.py" />
-        <option value="$PROJECT_DIR$/chapter02/bisect_examples.py" />
-        <option value="$PROJECT_DIR$/chapter02/bisect_insort.py" />
         <option value="$PROJECT_DIR$/chapter02/listcomp_speed.py" />
         <option value="$PROJECT_DIR$/chapter02/NumPy_and_SciPy.py" />
         <option value="$PROJECT_DIR$/chapter02/property_of_namedtuple.py" />
@@ -180,6 +133,10 @@
         <option value="$PROJECT_DIR$/chapter03/Variation_of_dict.py" />
         <option value="$PROJECT_DIR$/chapter01/a_pile_of_ordered_cards.py" />
         <option value="$PROJECT_DIR$/chapter03/HashTable#.py" />
+        <option value="$PROJECT_DIR$/chapter02/bisect_examples.py" />
+        <option value="$PROJECT_DIR$/chapter02/bisect_insort.py" />
+        <option value="$PROJECT_DIR$/chapter03/chapter04.py" />
+        <option value="$PROJECT_DIR$/chapter04/Character.py" />
       </list>
     </option>
   </component>
@@ -193,10 +150,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="675" />
-    <option name="y" value="23" />
-    <option name="width" value="1217" />
-    <option name="height" value="1054" />
+    <option name="x" value="1048" />
+    <option name="y" value="34" />
+    <option name="width" value="1214" />
+    <option name="height" value="891" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -206,6 +163,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,23 +174,12 @@
             <path>
               <item name="Fluent-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Fluent-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fluent-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fluent-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fluent-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fluent-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter03" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,8 +207,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.property_of_namedtuple">
-    <configuration name="a_pile_of_ordered_cards" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.bisect_examples">
+    <configuration name="bisect_examples" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Fluent-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,12 +216,50 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter01/a_pile_of_ordered_cards.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter02/bisect_examples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="bisect_insort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Fluent-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter02/bisect_insort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="bisect_package" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Fluent-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter02/bisect_package.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,57 +303,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="set#" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Fluent-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter03/set#.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Doctests in MappingProxyType#" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
-      <module name="Fluent-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter03/MappingProxyType#.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python tests.Doctests in MappingProxyType#" />
-      <item itemvalue="Python.set#" />
-      <item itemvalue="Python.a_pile_of_ordered_cards" />
       <item itemvalue="Python.function_iter" />
       <item itemvalue="Python.property_of_namedtuple" />
+      <item itemvalue="Python.bisect_package" />
+      <item itemvalue="Python.bisect_insort" />
+      <item itemvalue="Python.bisect_examples" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bisect_examples" />
+        <item itemvalue="Python.bisect_insort" />
+        <item itemvalue="Python.bisect_package" />
         <item itemvalue="Python.property_of_namedtuple" />
         <item itemvalue="Python.function_iter" />
-        <item itemvalue="Python.a_pile_of_ordered_cards" />
-        <item itemvalue="Python tests.Doctests in MappingProxyType#" />
-        <item itemvalue="Python.set#" />
       </list>
     </recent_temporary>
   </component>
@@ -418,17 +366,17 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="675" y="23" width="1217" height="1054" extended-state="0" />
+    <frame x="1048" y="34" width="1214" height="891" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30540243" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29812983" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3298969" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23982398" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27217916" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3534946" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17184801" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.12541528" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32956383" />
@@ -456,20 +404,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter02/list_comprehension.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/listcomp_speed.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter02/memoryview#.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -539,27 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/bisect_package.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-78">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/bisect_insort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/bisect_examples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -766,21 +679,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter01/function_iter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="232">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter01/class_Vector.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
+        <state relative-caret-position="1392">
           <caret line="48" column="42" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter01/a_pile_of_ordered_cards.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="899">
+        <state relative-caret-position="1421">
           <caret line="49" column="33" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="33" />
         </state>
       </provider>
@@ -794,15 +707,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter02/property_of_namedtuple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="464">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter03/HashTable#.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/bisect_insort.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="e#56#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/bisect_package.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/bisect_examples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/chapter04.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter04/Character.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="44" column="3" lean-forward="true" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
         </state>
       </provider>
     </entry>
